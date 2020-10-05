@@ -7,3 +7,4 @@
 
 Jahodka malinka melonik
 Jahodka je fajna.
+Aj malinka je fajna.
