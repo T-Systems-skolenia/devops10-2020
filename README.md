@@ -5,6 +5,8 @@
 * odrazka 3
 
 
-Jahodka malinka melonik
+[Jahodka](https://github.com/mishelka/devops10-2020/blob/main/jahodka.md) malinka melonik
+
 Jahodka je fajna.
+
 Aj malinka je fajna.
