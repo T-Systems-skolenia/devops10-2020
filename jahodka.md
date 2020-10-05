@@ -1,12 +1,10 @@
-# Toto je jahodecka
+# Toto je jahodkaaaa
 
-Jahodka je fajna <3 A este jeeee:
+Jahodka je fajna <3 <3 A este je:
 
 * velka
-* chutna
 * stavnata
 
-
-Nejaky dalsi dalsi riadok.
+Dalsi riadok.
 
 Jahodka je proste super.
