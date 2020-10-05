@@ -6,3 +6,4 @@
 
 
 Jahodka malinka melonik
+Jahodka je fajna.
